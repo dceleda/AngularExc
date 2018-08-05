@@ -13,10 +13,7 @@ namespace PtcApi.Model
     //                 Trusted_Connection=True;
     //                 MultipleActiveResultSets=true";
 
-    private const string CONN = @"Server=(localdb)\MSSQLLocalDB;
-    Database=PTC-Pluralsight;
-    AttachDbFilename=D:\Samples\PTC\SqlData\PTC-Pluralsight.mdf;
-    MultipleActiveResultSets=true";
+    private const string CONN = @"Data Source=LENOVO-PC\SQL2012;Initial Catalog=PTC-Pluralsight;Integrated Security=True;";
 
     protected override void OnConfiguring(
                 DbContextOptionsBuilder optionsBuilder)
