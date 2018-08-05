@@ -1,0 +1,11 @@
+C:\Storage\Projects\Repos\PoCs\AngularSecurityStartingSample\PtcApi\bin\Debug\netcoreapp2.0\PtcApi.deps.json
+C:\Storage\Projects\Repos\PoCs\AngularSecurityStartingSample\PtcApi\bin\Debug\netcoreapp2.0\PtcApi.runtimeconfig.json
+C:\Storage\Projects\Repos\PoCs\AngularSecurityStartingSample\PtcApi\bin\Debug\netcoreapp2.0\PtcApi.runtimeconfig.dev.json
+C:\Storage\Projects\Repos\PoCs\AngularSecurityStartingSample\PtcApi\bin\Debug\netcoreapp2.0\PtcApi.dll
+C:\Storage\Projects\Repos\PoCs\AngularSecurityStartingSample\PtcApi\bin\Debug\netcoreapp2.0\PtcApi.pdb
+C:\Storage\Projects\Repos\PoCs\AngularSecurityStartingSample\PtcApi\obj\Debug\netcoreapp2.0\PtcApi.csprojAssemblyReference.cache
+C:\Storage\Projects\Repos\PoCs\AngularSecurityStartingSample\PtcApi\obj\Debug\netcoreapp2.0\PtcApi.csproj.CoreCompileInputs.cache
+C:\Storage\Projects\Repos\PoCs\AngularSecurityStartingSample\PtcApi\obj\Debug\netcoreapp2.0\PtcApi.AssemblyInfoInputs.cache
+C:\Storage\Projects\Repos\PoCs\AngularSecurityStartingSample\PtcApi\obj\Debug\netcoreapp2.0\PtcApi.AssemblyInfo.cs
+C:\Storage\Projects\Repos\PoCs\AngularSecurityStartingSample\PtcApi\obj\Debug\netcoreapp2.0\PtcApi.dll
+C:\Storage\Projects\Repos\PoCs\AngularSecurityStartingSample\PtcApi\obj\Debug\netcoreapp2.0\PtcApi.pdb
